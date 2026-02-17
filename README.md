@@ -1,8 +1,8 @@
 # Profile Introduction
 
-Hello! I'm entersidbellad, and welcome to my GitHub profile.
+Hello! I'm Siddharth, and welcome to my GitHub profile.
 
-Here you will find projects that I am currently working on as well as my contributions to various open-source initiatives.
+Here you will find projects that I am currently working on, all vibe-coded, because I can only vibe-code as of now :)
 
 ## Featured Workspace
 
