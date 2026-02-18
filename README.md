@@ -2,7 +2,7 @@
 
 Hello! I'm Siddharth, and welcome to my GitHub profile.
 
-Here you will find projects that I am currently working on, all vibe-coded, because I can only vibe-code as of now :)
+Here you will find projects that I am currently working on or already done with, all vibe-coded, because I can only vibe-code as of now :)
 
 ## Featured Workspace
 
